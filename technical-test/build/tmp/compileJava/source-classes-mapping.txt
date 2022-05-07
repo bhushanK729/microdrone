@@ -1,0 +1,2 @@
+com/microdrones/technical_test/Main.java
+ com.microdrones.technical_test.Main

@@ -1,0 +1,10 @@
+{
+  "verticalSpeeds": {
+    "ascension": 100.0,
+    "descent": 10.0
+  },
+  "energy": {
+    "numberOfBatteries": 3,
+    "capacity": 1000
+  }
+}

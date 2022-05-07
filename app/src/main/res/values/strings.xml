@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Hypersine</string>
+    <string name="mission_1">Mission 1</string>
+    <string name="mission_2">Mission 2</string>
+    <string name="mission_3">Mission 3</string>
+    <string name="mission_4">Mission 4</string>
+    <string name="mission_5">Mission 5</string>
+    <string name="mission_6">Mission 6</string>
+</resources>
